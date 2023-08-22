@@ -12,6 +12,30 @@
         "desc": "Ideology of Heinz Dieterich, claiming that both capitalism and marxism-leninism failed, and aims to focus on worker and minority issues using democratic means."
     },
     {
+        "name": "Alstūdism",
+        "stats": [
+            80,
+            90,
+            80,
+            20,
+            20,
+            65
+        ],
+        "desc": "Find it here https://freepcb.site/index.php/Alst%C5%ABdism"
+    },
+    {
+        "name": "National Woodenism",
+        "stats": [
+            66,
+            82.6,
+            77.1,
+            29.2,
+            34,
+            72.2
+        ],
+        "desc": "A fascist ideology, calling for English self determination, Pagan religious revival and a syndicate-based economy."
+    },
+    {
         "name": "Absolute Monarchism",
         "stats": [
             5,
