@@ -24,6 +24,18 @@
         "desc": "Find it here https://freepcb.site/index.php/Alst%C5%ABdism"
     },
     {
+        "name": "CarrotsRppl2ism",
+        "stats": [
+            45,
+            0,
+            0,
+            100,
+            70,
+            60
+        ],
+        "desc": "description needed"
+    },
+    {
         "name": "National Woodenism",
         "stats": [
             66,
@@ -34,6 +46,18 @@
             72.2
         ],
         "desc": "A fascist ideology, calling for English self determination, Pagan religious revival and a syndicate-based economy."
+    },
+    {
+        "name": "Erika Thought",
+        "stats": [
+            40,
+            80,
+            85,
+            30,
+            35,
+            45
+        ],
+        "desc": "National Socialism 😲"
     },
     {
         "name": "Absolute Monarchism",
